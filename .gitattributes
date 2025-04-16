@@ -1,0 +1,19 @@
+# Ensure code files are counted in language stats
+*.py linguist-detectable=true
+*.js linguist-detectable=true
+*.ts linguist-detectable=true
+*.jsx linguist-detectable=true
+*.tsx linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.json linguist-detectable=true
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
+*.sh linguist-detectable=true
+
+# Optional: Exclude build/vendor folders from language stats
+node_modules/** linguist-vendored
+dist/** linguist-vendored
+build/** linguist-vendored
+venv/** linguist-vendored
+.env linguist-generated
