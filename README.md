@@ -1,6 +1,8 @@
 ## Inspiration
 The primary motivation behind creating this proof of concept is to demonstrate how Zero-Knowledge Proofs (ZKPs) and Verifiable Credentials (VCs), aligned with W3C standards, can be integrated with on-chain blockchain technology i.e (CHEQD). This approach enables the deployment, storage, and verification of proof of human identity—an essential capability as we approach an AI-driven era where distinguishing between real users and bots or AI agents will become increasingly challenging. Without effective solutions to authenticate human identity, the risk of misuse could be significant.
 
+Detail Project Explaination : [Here](https://devpost.com/software/test-7gtomq)
+
 
 ![_](https://i.imgur.com/C300xlX.png)
 
