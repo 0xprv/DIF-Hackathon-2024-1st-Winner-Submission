@@ -3,6 +3,9 @@ The primary motivation behind creating this proof of concept is to demonstrate h
 
 
 
+![_]([https://i.imgur.com/WCzMso8.png](https://i.imgur.com/C300xlX.png))
+
+
 ## What it does
 1.**Government ID Issuance:** A government agency issues an ID to the holder, which is required to obtain a PHC Verifiable Credential (VC).
 
